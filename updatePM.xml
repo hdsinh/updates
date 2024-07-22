@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>2.0.0.0</version>
+    <url>http://hdsinh.000.pe/BTTeXLite.zip</url>
+    <mandatory>false</mandatory>
+    <releaseNotes>
+        - Added new features
+        - Fixed bugs
+    </releaseNotes>
+</item>
